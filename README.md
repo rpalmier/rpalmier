@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Hola Ronald, estoy aportando en tu repo!
+
+
 <!--
 **rpalmier/rpalmier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
